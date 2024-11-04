@@ -1,4 +1,4 @@
-- 👋 Hi, call me RES, @resArfita
+- 👋 Hi, i'm Resa
 - 👀 I’m interested in WEB Development, and AI
 - 🌱 I’m currently learning MERN Stack
 - ⚡ Fun fact: My curiosity pretty high and IDK why but I love discover new things
